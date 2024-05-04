@@ -12,3 +12,4 @@
 /Users/sergeilogachev/RiderProjects/NormalLabProgrammingEngi/Lab4Practice/obj/Debug/net8.0/Lab4Practice.pdb
 /Users/sergeilogachev/RiderProjects/NormalLabProgrammingEngi/Lab4Practice/obj/Debug/net8.0/Lab4Practice.genruntimeconfig.cache
 /Users/sergeilogachev/RiderProjects/NormalLabProgrammingEngi/Lab4Practice/obj/Debug/net8.0/ref/Lab4Practice.dll
+/Users/sergeilogachev/RiderProjects/NormalLabProgrammingEngi/Lab4Practice/obj/Debug/net8.0/Lab4Practice.sourcelink.json
