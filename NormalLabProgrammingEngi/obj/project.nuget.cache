@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xJzp9aQ3obso+buEmR47d9t/WxcMhNqilW8+dYXDcVp0EUwG3xfd7CKseRpQCdlej4ijUV0EIA2Hbxep1jm+lQ==",
+  "success": true,
+  "projectFilePath": "/Users/sergeilogachev/RiderProjects/NormalLabProgrammingEngi/NormalLabProgrammingEngi/NormalLabProgrammingEngi.csproj",
+  "expectedPackageFiles": [
+    "/Users/sergeilogachev/.nuget/packages/microsoft.netcore.app.ref/7.0.15/microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "/Users/sergeilogachev/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.15/microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "/Users/sergeilogachev/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.15/microsoft.netcore.app.host.osx-arm64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

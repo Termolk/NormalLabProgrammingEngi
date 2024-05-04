@@ -1,0 +1,14 @@
+/Users/sergeilogachev/RiderProjects/NormalLabProgrammingEngi/Lab5Example/bin/Debug/net8.0/Lab5Example
+/Users/sergeilogachev/RiderProjects/NormalLabProgrammingEngi/Lab5Example/bin/Debug/net8.0/Lab5Example.deps.json
+/Users/sergeilogachev/RiderProjects/NormalLabProgrammingEngi/Lab5Example/bin/Debug/net8.0/Lab5Example.runtimeconfig.json
+/Users/sergeilogachev/RiderProjects/NormalLabProgrammingEngi/Lab5Example/bin/Debug/net8.0/Lab5Example.dll
+/Users/sergeilogachev/RiderProjects/NormalLabProgrammingEngi/Lab5Example/bin/Debug/net8.0/Lab5Example.pdb
+/Users/sergeilogachev/RiderProjects/NormalLabProgrammingEngi/Lab5Example/obj/Debug/net8.0/Lab5Example.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergeilogachev/RiderProjects/NormalLabProgrammingEngi/Lab5Example/obj/Debug/net8.0/Lab5Example.AssemblyInfoInputs.cache
+/Users/sergeilogachev/RiderProjects/NormalLabProgrammingEngi/Lab5Example/obj/Debug/net8.0/Lab5Example.AssemblyInfo.cs
+/Users/sergeilogachev/RiderProjects/NormalLabProgrammingEngi/Lab5Example/obj/Debug/net8.0/Lab5Example.csproj.CoreCompileInputs.cache
+/Users/sergeilogachev/RiderProjects/NormalLabProgrammingEngi/Lab5Example/obj/Debug/net8.0/Lab5Example.dll
+/Users/sergeilogachev/RiderProjects/NormalLabProgrammingEngi/Lab5Example/obj/Debug/net8.0/refint/Lab5Example.dll
+/Users/sergeilogachev/RiderProjects/NormalLabProgrammingEngi/Lab5Example/obj/Debug/net8.0/Lab5Example.pdb
+/Users/sergeilogachev/RiderProjects/NormalLabProgrammingEngi/Lab5Example/obj/Debug/net8.0/Lab5Example.genruntimeconfig.cache
+/Users/sergeilogachev/RiderProjects/NormalLabProgrammingEngi/Lab5Example/obj/Debug/net8.0/ref/Lab5Example.dll

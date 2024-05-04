@@ -1,0 +1,14 @@
+/Users/sergeilogachev/RiderProjects/NormalLabProgrammingEngi/FourthPractice/bin/Debug/net7.0/FourthPractice
+/Users/sergeilogachev/RiderProjects/NormalLabProgrammingEngi/FourthPractice/bin/Debug/net7.0/FourthPractice.deps.json
+/Users/sergeilogachev/RiderProjects/NormalLabProgrammingEngi/FourthPractice/bin/Debug/net7.0/FourthPractice.runtimeconfig.json
+/Users/sergeilogachev/RiderProjects/NormalLabProgrammingEngi/FourthPractice/bin/Debug/net7.0/FourthPractice.dll
+/Users/sergeilogachev/RiderProjects/NormalLabProgrammingEngi/FourthPractice/bin/Debug/net7.0/FourthPractice.pdb
+/Users/sergeilogachev/RiderProjects/NormalLabProgrammingEngi/FourthPractice/obj/Debug/net7.0/FourthPractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergeilogachev/RiderProjects/NormalLabProgrammingEngi/FourthPractice/obj/Debug/net7.0/FourthPractice.AssemblyInfoInputs.cache
+/Users/sergeilogachev/RiderProjects/NormalLabProgrammingEngi/FourthPractice/obj/Debug/net7.0/FourthPractice.AssemblyInfo.cs
+/Users/sergeilogachev/RiderProjects/NormalLabProgrammingEngi/FourthPractice/obj/Debug/net7.0/FourthPractice.csproj.CoreCompileInputs.cache
+/Users/sergeilogachev/RiderProjects/NormalLabProgrammingEngi/FourthPractice/obj/Debug/net7.0/FourthPractice.dll
+/Users/sergeilogachev/RiderProjects/NormalLabProgrammingEngi/FourthPractice/obj/Debug/net7.0/refint/FourthPractice.dll
+/Users/sergeilogachev/RiderProjects/NormalLabProgrammingEngi/FourthPractice/obj/Debug/net7.0/FourthPractice.pdb
+/Users/sergeilogachev/RiderProjects/NormalLabProgrammingEngi/FourthPractice/obj/Debug/net7.0/FourthPractice.genruntimeconfig.cache
+/Users/sergeilogachev/RiderProjects/NormalLabProgrammingEngi/FourthPractice/obj/Debug/net7.0/ref/FourthPractice.dll

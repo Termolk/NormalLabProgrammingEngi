@@ -1,0 +1,14 @@
+/Users/sergeilogachev/RiderProjects/NormalLabProgrammingEngi/NormalLabProgrammingEngi/bin/Debug/net7.0/NormalLabProgrammingEngi
+/Users/sergeilogachev/RiderProjects/NormalLabProgrammingEngi/NormalLabProgrammingEngi/bin/Debug/net7.0/NormalLabProgrammingEngi.deps.json
+/Users/sergeilogachev/RiderProjects/NormalLabProgrammingEngi/NormalLabProgrammingEngi/bin/Debug/net7.0/NormalLabProgrammingEngi.runtimeconfig.json
+/Users/sergeilogachev/RiderProjects/NormalLabProgrammingEngi/NormalLabProgrammingEngi/bin/Debug/net7.0/NormalLabProgrammingEngi.dll
+/Users/sergeilogachev/RiderProjects/NormalLabProgrammingEngi/NormalLabProgrammingEngi/bin/Debug/net7.0/NormalLabProgrammingEngi.pdb
+/Users/sergeilogachev/RiderProjects/NormalLabProgrammingEngi/NormalLabProgrammingEngi/obj/Debug/net7.0/NormalLabProgrammingEngi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergeilogachev/RiderProjects/NormalLabProgrammingEngi/NormalLabProgrammingEngi/obj/Debug/net7.0/NormalLabProgrammingEngi.AssemblyInfoInputs.cache
+/Users/sergeilogachev/RiderProjects/NormalLabProgrammingEngi/NormalLabProgrammingEngi/obj/Debug/net7.0/NormalLabProgrammingEngi.AssemblyInfo.cs
+/Users/sergeilogachev/RiderProjects/NormalLabProgrammingEngi/NormalLabProgrammingEngi/obj/Debug/net7.0/NormalLabProgrammingEngi.csproj.CoreCompileInputs.cache
+/Users/sergeilogachev/RiderProjects/NormalLabProgrammingEngi/NormalLabProgrammingEngi/obj/Debug/net7.0/NormalLabProgrammingEngi.dll
+/Users/sergeilogachev/RiderProjects/NormalLabProgrammingEngi/NormalLabProgrammingEngi/obj/Debug/net7.0/refint/NormalLabProgrammingEngi.dll
+/Users/sergeilogachev/RiderProjects/NormalLabProgrammingEngi/NormalLabProgrammingEngi/obj/Debug/net7.0/NormalLabProgrammingEngi.pdb
+/Users/sergeilogachev/RiderProjects/NormalLabProgrammingEngi/NormalLabProgrammingEngi/obj/Debug/net7.0/NormalLabProgrammingEngi.genruntimeconfig.cache
+/Users/sergeilogachev/RiderProjects/NormalLabProgrammingEngi/NormalLabProgrammingEngi/obj/Debug/net7.0/ref/NormalLabProgrammingEngi.dll
