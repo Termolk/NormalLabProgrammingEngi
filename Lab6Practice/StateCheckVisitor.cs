@@ -7,9 +7,7 @@ public class StateCheckVisitor : IVisitor
         try
         {
             if (component.GetState() == 0)
-            {
                 Console.WriteLine("тревога!");
-            }
         }
         catch (Exception)
         {
