@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NormalLabProgrammingEngi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14c5467842e1b94146648bcbf4e1257fc5766a3a")]
 [assembly: System.Reflection.AssemblyProductAttribute("NormalLabProgrammingEngi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NormalLabProgrammingEngi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
