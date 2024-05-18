@@ -2,7 +2,7 @@ namespace Lab6Practice;
 
 public class StateCheckVisitor : IVisitor
 {
-    public void Visit(IComponent component)
+    public void Visit(IVisitable component)
     {
         try
         {

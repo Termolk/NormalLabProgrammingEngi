@@ -1,8 +1,6 @@
 namespace Lab6Practice;
 
-public class ComponentB : IComponent
+public class ComponentB : IVisitable
 {
     public int GetState() => 0;
-    
-    public void Accept(IVisitor visitor) => visitor.Visit(this);
 }

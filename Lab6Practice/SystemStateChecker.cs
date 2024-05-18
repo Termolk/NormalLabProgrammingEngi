@@ -19,7 +19,7 @@ public class SystemStateChecker
 
         foreach (var component in _components)
         {
-            component.Accept(visitor);
+            visitor.Visit(component);
         }
     }
 }

@@ -1,6 +1,6 @@
 namespace Lab6Practice;
 
-public interface IComponent : IVisitable
+public interface IVisitable
 {
     int GetState();
 }
